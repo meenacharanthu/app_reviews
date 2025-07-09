@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+flask
+joblib
+textblob
+rank_bm25 
